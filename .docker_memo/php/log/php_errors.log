@@ -1,0 +1,13 @@
+[07-Mar-2021 08:59:26 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 17
+[07-Mar-2021 09:30:03 Asia/Tokyo] PHP Warning:  require(../../common/validation.php): failed to open stream: No such file or directory in /var/www/html/user/action/register.php on line 3
+[07-Mar-2021 09:30:03 Asia/Tokyo] PHP Fatal error:  require(): Failed opening required '../../common/validation.php' (include_path='.:/usr/local/lib/php') in /var/www/html/user/action/register.php on line 3
+[07-Mar-2021 09:35:29 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 52
+[10-Mar-2021 09:24:17 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 52
+[10-Mar-2021 09:29:32 Asia/Tokyo] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[20-Mar-2021 07:45:59 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /var/www/html/memo/index.php on line 9
+[20-Mar-2021 07:46:40 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /var/www/html/memo/index.php on line 9
+[20-Mar-2021 07:46:41 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /var/www/html/memo/index.php on line 9
+[21-Mar-2021 08:38:57 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[21-Mar-2021 08:38:57 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
+[21-Mar-2021 08:39:07 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[21-Mar-2021 08:39:07 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
